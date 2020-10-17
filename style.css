@@ -1,0 +1,677 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body
+{
+    background: #E5E5E5;
+    font-family: Taviraj;
+}
+
+.background img
+{    
+position: absolute;
+width: 178px;
+height: 22px;
+left: 199px;
+top: 60px;
+}
+.links ul li 
+{
+    display: inline;
+    position: relative;
+    width: 82px;
+    height: 34px;
+    left: 478px;
+    top: 51px;
+}
+.links ul li a{
+    font-size: 20px;
+    font-weight: 400;
+    color: #333333;
+    padding: 0px 24px;
+    text-decoration: none;;
+}
+.search img
+{
+width: 32px;
+height: 32px;
+position: absolute;
+left: 65rem;
+top: 3rem;
+}
+
+.log
+{
+    left: -80px;
+    top: -36px;
+    position: relative;
+}
+.log img
+{
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    right: 280px;
+    top: 53px;
+}
+.log a
+{
+    position: absolute;
+    text-decoration: none;
+    width: 54px;
+    height: 31px;
+    font-size: 18px;
+    right: 217px;
+    top: 56px;
+
+}
+
+.cart-2
+{
+   
+    right: 102px;
+    top: 51px;
+    position: absolute;
+}
+.cart-1
+{
+   
+    right: 90px;
+    top: 41px;
+    position: absolute;
+}
+
+.cart
+{
+    position: relative;
+    right: 111px;
+    top: -30px;
+}
+
+.check li
+{
+    position: relative;
+    display: inline-block;
+    top: 7rem;
+    left: 19rem;
+    padding: 0px 93px;
+    text-align: center;
+
+}
+.check img
+{
+ position: relative;
+width: 48px;
+height: 48px;
+}
+.check h3
+{
+    font-family: Taviraj;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+color: #999999;
+}
+.check .sss
+{
+    font-family: Taviraj;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: red;
+}
+
+.line-1
+{
+    position: absolute;
+    width: 114px;
+    height: 0px;
+    left: 241px;
+    top: 75px;
+
+    border: 1px solid #333333;
+}
+.line-2
+{
+    position: absolute;
+    position: absolute;
+    width: 114px;
+    height: 0px;
+    left: 530px;
+    top: 73px;
+    border: 1px solid #333333;
+}
+
+.box
+{
+    position: absolute;
+    background: #FFFFFF;
+    width: 540px;
+    height: 607px;
+    left: 210px;
+    top: 300px;
+}
+
+.box img
+{
+    
+    position: absolute;
+    width: 367px;
+    height: 241px;
+    left: 96px;
+    top: 53px;
+}
+.box h1
+{
+    position: absolute;
+    width: 203px;
+    height: 23px;
+    font-size: 24px;
+    font-weight: 500;
+    top: 21rem;
+    left: 11.3rem;
+
+}
+
+.box p
+{
+    text-align: center;
+    width: 352px;
+    height: 48px;
+    font-family: Nunito;
+    font-size: 16px;
+    position: absolute;
+    top: 24.5rem;
+    left: 6rem;
+    letter-spacing: 0.2px;
+    line-height: 25px;
+}
+.link-1
+{
+    position: absolute;
+    width: 367px;
+    height: 68px;
+    background: #D84727;
+    text-align: center;
+    top: 31rem;
+    left: 6rem;
+
+}
+.link-1 a
+{
+    position: relative;
+    top: 21px;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 500;
+    color: #ffffff;
+    font-family: Taviraj;
+    font-style: normal;
+}
+
+.box-2
+{
+    position: absolute;
+    background: #FFFFFF;
+    Width :540px;
+    Height :607px;
+    left: 790px;
+    top: 300px;
+}
+.head img
+{
+    width: 24px;
+    height: 24px;
+    top: 25px;
+    left: 20px;
+    position: absolute;
+}
+.head p{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    left: 53px;
+    top: 28px;
+    color: #333333;
+    position: absolute;
+
+}
+
+.head-1 img
+{
+    width: 24px;
+    height: 24px;
+    top: 25px;
+    left: 20px;
+    position: absolute;
+}
+.head-1 p{
+    width: 97px;
+    height: 32px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    left: 53px;
+    top: 28px;
+    color: #333333;
+    position: absolute;
+
+}
+
+.head-1
+{
+    top: 2px;
+    position: absolute;
+    left: 190px;
+}
+
+.paragraph
+{
+    height: 130px;
+width: 237px;
+left: 768px;
+top: 349px;
+border-radius: nullpx;
+
+}
+
+.paragraph p
+{
+    font-size: 20px;
+    font-family: Taviraj;
+font-style: normal;
+font-weight: normal;
+color: #c7c3c3;
+line-height: 37px;
+}
+.paragraph h3
+{
+    font-size: 20px;
+    font-family: Taviraj;
+font-style: normal;
+font-weight: 400;
+color: #333333;
+}
+
+.paragraph
+{
+    position: relative;
+    top: 5rem;
+    left: 1.6rem;
+}
+
+.sub-2
+{
+    top: 236px;
+    left: 22px;
+    position: absolute;
+    line-height: 45px;
+}
+
+.sub-2 p
+{
+ font-family: Taviraj;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+}
+
+.amount
+{
+    top: 236px;
+    left: 240px;
+    position: absolute;
+    line-height: 44px;
+}
+.amount p
+{
+    font-family: Taviraj;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;  
+}
+
+.line-3
+{
+    width: 473px;
+    height: 0px;
+    top: 25rem;
+    left: 1rem;
+    position: absolute;
+    border: 0.5px solid #999999;
+}
+.line-4
+{
+    width: 473px;
+    height: 0px;
+    top: 31rem;
+    left: 1rem;
+    position: absolute;
+    border: 0.5px solid #999999;
+}
+.tot-amount p
+{
+    font-family: Taviraj;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    position: absolute;
+    top: 27rem;
+    left: 1.5rem;
+}
+.tot-amount h2
+{
+    font-family: Taviraj;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    position: absolute;
+    top: 26.5rem;
+    left: 15rem;
+}
+.last-pag p
+{
+    position: absolute;
+    width: 277px;
+    height: 64px;
+    font-family: Taviraj;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    top: 517px;
+    left: 20px;
+}
+.last-pag h4{
+    position: absolute;
+    width: 256px;
+    height: 64px;
+    top: 32.5rem;
+    left: 14rem;
+    font-family: Taviraj;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 33px;
+}
+.bg
+{
+    left: 0px;
+    top: 60rem;
+    position: absolute;
+    width: 1499px;
+    height: 273px;
+    background: #DA5E42;
+    position: absolute;
+}
+.bg img
+{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    padding: 10px 78px;
+    cursor: pointer;
+    left: 83px;
+}
+
+.last-con
+{
+
+    position: absolute;
+    width: 1499px;
+    height: 409px;
+    background: #D84727;
+    top: 77rem;
+
+}
+.last-con img
+{
+    position: absolute;
+    width: 178px;
+    height: 22px;
+    top: 40px;
+    left: 104px;
+}
+.last-con h4
+{
+ position: absolute;
+width: 79px;
+height: 34px;
+font-family: Taviraj;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+letter-spacing: 0.02em;
+color: #FFFFFF;
+top: 82px;
+left: 105px;
+}
+.last-con p
+{
+    width: 236px;
+    height: 110px;
+    font-family: Taviraj;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #fff;
+    position: absolute;
+    top: 120px;
+    left: 103px;
+    line-height: 27px;
+}
+.last-con h5
+{
+width: 117px;
+height: 34px;
+font-family: Taviraj;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+color: #fff;
+}
+.last-con h3
+{
+    width: 139px;
+    height: 34px;
+    font-family: Taviraj;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #fff;
+    position: absolute;
+    top: 39px;
+}
+.off
+{
+    position: absolute;
+    left: 103px;
+    top: 257px;
+}
+
+.con-2 h1
+{
+    
+    width: 182px;
+    height: 41px;
+    font-size: 24px;
+    font-weight: 600;
+    color: #fff;
+    letter-spacing: 0.2px;
+    font-family: Taviraj;
+    font-style: normal;
+    letter-spacing: 1px;
+}
+.con-2 li
+{
+    position: relative;
+width: 97px;
+height: 56px;
+font-family: Taviraj;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+color: #fff;
+list-style: none;
+line-height: 25px;
+top: 20px;
+}
+
+.con-2 span
+{
+    width: 122px;
+    height: 32px;
+    font-family: Taviraj;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #fff;
+}
+
+.con-2  .num-1
+{
+    top: 45px;
+    left: 135px;
+    position: absolute;
+}
+
+.con-2  .num-2
+{
+    top: 102px;
+    left: 135px;
+    position: absolute;
+}
+
+.con-2  .num-3
+{
+    top: 156px;
+    left: 135px;
+    position: absolute;
+}
+.con-2 
+{
+    position: absolute;
+    left: 419px;
+    top: 34px;
+}
+
+.con-2 .line-8
+{
+    position: absolute;
+    width: 56px;
+    height: 0px;
+    left: 0px;
+    top: 38px;
+    border: 0.5px solid #fff;
+}
+.num
+{
+    position: relative;
+    top: -192px;
+}
+.useful .line-8
+{
+    position: absolute;
+    width: 56px;
+    height: 0px;
+    left: 0px;
+    top: 26px;
+    border: 0.5px solid #fff;
+}
+.useful h1
+{
+    
+    width: 182px;
+height: 41px;
+font-family: Taviraj;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+color: #fff;
+line-height: 10px;
+letter-spacing: 1px;
+}
+
+.useful li
+{
+width: 185px;
+font-family: Taviraj;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 27px;
+color: #fff;
+list-style: none;
+}
+
+.useful
+{
+    position: absolute;
+    top: 48px;
+    left: 48rem;
+}
+
+.campaign .line-9
+{
+    position: absolute;
+    width: 56px;
+    height: 0px;
+    left: 0px;
+    top: 26px;
+    border: 0.5px solid #fff;
+}
+.campaign h1
+{
+    letter-spacing: 1px;
+    width: 182px;
+height: 41px;
+font-family: Taviraj;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+color: #fff;
+line-height: 10px;
+
+}
+
+.campaign li
+{
+width: 185px;
+font-family: Taviraj;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 27px;
+color: #fff;
+list-style: none;
+}
+
+.campaign
+{
+    position: absolute;
+    top: 48px;
+    left: 66rem;
+}
+
+
+.social-media i
+{
+    width: 32px;
+    height: 32px;
+    font-size: 32px;
+    color: #fff;
+    padding: 10px;
+    
+}
+.social-media
+{
+    position: absolute;
+    top: 272px;
+    left: 409px;
+}
+
+
+
+
